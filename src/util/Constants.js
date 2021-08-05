@@ -84,7 +84,7 @@ exports.DefaultOptions = {
    * @property {string} [template='https://discord.new'] Base url of templates
    */
   http: {
-    version: 7,
+    version: 9,
     api: 'https://discord.com/api',
     cdn: 'https://cdn.discordapp.com',
     invite: 'https://discord.gg',
